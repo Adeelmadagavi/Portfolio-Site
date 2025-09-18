@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./header.css"
+import "./header.css";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
@@ -13,10 +13,10 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
-  AiOutlineMessage
+  AiOutlineMessage,
 } from "react-icons/ai";
 
-import { CgFileDocument, } from "react-icons/cg";
+import { CgFileDocument } from "react-icons/cg";
 
 function Header() {
   const [expand, updateExpanded] = useState(false);
@@ -40,7 +40,6 @@ function Header() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
@@ -75,20 +74,23 @@ function Header() {
                 to="/projects"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineFundProjectionScreen style={{ marginBottom: "2px" }} /> Projects
+                <AiOutlineFundProjectionScreen style={{ marginBottom: "2px" }} />{" "}
+                Projects
               </Nav.Link>
             </Nav.Item>
 
-           
-            // <Nav.Item>
-            //   <Nav.Link
-            //     as={Link}
-            //     to="/resume"
-            //     onClick={() => updateExpanded(false)}
-            //   >
-            //     <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
-            //   </Nav.Link>
-            // </Nav.Item>
+            {/* Uncomment this if you want Resume in navbar */}
+            {/* 
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/resume"
+                onClick={() => updateExpanded(false)}
+              >
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+              </Nav.Link>
+            </Nav.Item>
+            */}
 
             <Nav.Item>
               <Nav.Link
@@ -99,7 +101,6 @@ function Header() {
                 <AiOutlineMessage style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
             </Nav.Item>
-
 
             <Nav.Item className="fork-btn">
               <Button
