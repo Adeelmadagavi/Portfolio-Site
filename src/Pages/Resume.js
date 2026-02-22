@@ -1,9 +1,9 @@
 import React from 'react'
 import { Container, Row} from "react-bootstrap";
-import Button from "react-bootstrap/Button";
+// import Button from "react-bootstrap/Button";
 import Particle from "../Components/Particles/Particle";
  import resume from "../Assets/dd.png";
- import project from "../Assets/project-his.png";
+//  import project from "../Assets/project-his.png";
 //  import pdf from "../Assets/Adeelmadagavi1.pdf"
 
 
