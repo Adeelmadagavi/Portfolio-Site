@@ -7,7 +7,7 @@ import Particle from "../Components/Particles/Particle";
 //  import pdf from "../Assets/Adeelmadagavi1.pdf"
 
 
-import { AiOutlineDownload } from "react-icons/ai";
+// import { AiOutlineDownload } from "react-icons/ai";
 
 
 function Resume() {

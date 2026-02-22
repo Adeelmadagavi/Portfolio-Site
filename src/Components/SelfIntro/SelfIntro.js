@@ -63,45 +63,45 @@ function SelfIntro() {
               </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
-                <a
+                {/* <a
                   // href="https://github.com/adeelmadagavi"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
-                </a>
+                </a> */}
               </li>
 
               <li className="social-icons">
-                <a
+                {/* <a
                   // href="https://www.linkedin.com/in/adeelmadagavi/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
+                </a> */}
               </li>
               <li className="social-icons">
-                <a
+                {/* <a
                   // href="https://www.instagram.com/adeelmadagavi/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
-                </a>
+                </a> */}
               </li>
               <li className="social-icons">
-                <a
-                  // href="https://youtube.com/c/SijeeshMiziha"
+                {/* <a
+                  href="https://youtube.com/c/SijeeshMiziha"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineYoutube />
-                </a>
+                </a> */}
               </li>
             </ul>
           </Col>
