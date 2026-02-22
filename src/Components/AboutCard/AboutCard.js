@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, My Self <span className="purple">Adeelmadagavi  </span>
+            Hi Everyone,  <span className="purple">  </span>
             I am a Fresh Graduate Engineer from <span className="purple"> Belagavi, India.</span>
             <br />
             
@@ -22,7 +22,7 @@ function AboutCard() {
              I’ve also completed certifications in Programming Foundations, HTML, CSS, and REST API using Webex Teams, and built several real-world projects I’m passionate about web development, cloud computing, and creating impactful digital solutions. Currently, I’m focused on building responsive, SEO-optimized websites and preparing for a career in cloud technologies.
 
               Let’s build something amazing together!
-                                                      <br />      <br /> ~ Adeel Madagavi
+                                                      <br />      <br /> 
 
           </p>
           

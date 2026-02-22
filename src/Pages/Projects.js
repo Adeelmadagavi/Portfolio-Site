@@ -36,7 +36,7 @@ function Projects() {
               Developed separate dashboards for farmers and admins, including claim form submissions, file uploads, and claim status updates.
               Implemented role-based authentication and notification planning via SMS/email for future enhancements.
               Helped simplify a traditionally manual process, aligning with digital India and agritech goals."
-              link="https://github.com/Adeelmadagavi/-insurance-system"
+              // link="https://github.com/Adeelmadagavi/-insurance-system"
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
                Data-Driven Decision Making: Helps hospital staff plan better using clean visual reports.
                Responsive Interface: Dashboards embedded in a mobile-friendly React frontend.
                Scalable Design: Ready for login systems, API integration, and multi-role access."
-              link="https://github.com/adeelmadagavi"
+              // link="https://github.com/adeelmadagavi"
             />
           </Col>
           <Col md={6} className="project-card">
@@ -62,7 +62,7 @@ function Projects() {
               Implemented a responsive design to ensure compatibility across devices.
               Integrated smooth scrolling and animations for a better user experience.
               Deployed the website using GitHub Pages for easy access and sharing."
-              link="https://github.com/adeelmadagavi"
+              // link="https://github.com/adeelmadagavi"
             />
           </Col>
         </Row>

@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/ami.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -64,7 +64,7 @@ function SelfIntro() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/adeelmadagavi"
+                  // href="https://github.com/adeelmadagavi"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +75,7 @@ function SelfIntro() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/adeelmadagavi/"
+                  // href="https://www.linkedin.com/in/adeelmadagavi/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +85,7 @@ function SelfIntro() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/adeelmadagavi/"
+                  // href="https://www.instagram.com/adeelmadagavi/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -95,7 +95,7 @@ function SelfIntro() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://youtube.com/c/SijeeshMiziha"
+                  // href="https://youtube.com/c/SijeeshMiziha"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

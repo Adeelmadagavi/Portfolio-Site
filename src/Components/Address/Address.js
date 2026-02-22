@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "./address.css";
-import call from "../../Assets/contact.svg";
+import call from "../../Assets/ami.png";
 
 import {
   AiFillGithub,
@@ -30,13 +30,13 @@ function Address() {
 
            <h4 >Phone Number</h4> 
               
-              <p>  <AiOutlineWhatsApp/> +91 8105515014</p>
+              <p>  <AiOutlineWhatsApp/> +91 9972418163</p>
               </Col>
               <Col md={6} className="contact-address">
               <h4 >Email Address</h4> 
               <p>
                 
-                <AiOutlineMail/> madagaviadeel3@gmail.com
+                <AiOutlineMail/> ampartners37@gmail.com
               </p>
               </Col>
 
@@ -56,7 +56,7 @@ function Address() {
               <ul className="home-about-social-links">
                 <li className="social-icons">
                   <a
-                    href="https://github.com/adeelmadagavi"
+                    // href="https://github.com/adeelmadagavi"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -67,7 +67,7 @@ function Address() {
 
                 <li className="social-icons">
                   <a
-                    href="https://www.linkedin.com/in/adeelmadagavi/"
+                    // href="https://www.linkedin.com/in/adeelmadagavi/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ function Address() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="https://wa.me/8105515014"
+                    href="https://wa.me/9972418163"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -89,7 +89,7 @@ function Address() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="https://www.instagram.com/adeel_khan_1414/"
+                    // href="https://www.instagram.com/adeel_khan_1414/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour home-social-icons"
@@ -105,7 +105,7 @@ function Address() {
         <h2 className="text-3xl font-bold mb-6 text-center">Get in Touch</h2>
 
         <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLScpXNdY5DeFfa2RqDVvspseIWv6XHpBoHm51U60FAplplRs9w/viewform?embedded=true"
+          src="https://docs.google.com/forms/d/e/1FAIpQLScovdMWBJLqmbWmTEa0IXa6nnp5eEalgWXfQZgnKGDKFPIvBw/viewform?usp=dialog"
           width="100%"
           height="900"
           frameBorder="0"

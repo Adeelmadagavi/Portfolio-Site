@@ -19,14 +19,14 @@ function Footer() {
         </Col>
         <Col md="4" className="footer-copywright">
         <div class="typing-container">
-        <h3 class="typing-text">Adeel Madagavi</h3>
+        <h3 class="typing-text">AMi TECH SOLUTIONS</h3>
         </div>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
           <li className="social-icons">
               <a
-                href="https://www.facebook.com/adeelkhan1414/"
+                // href="https://www.facebook.com/adeelkhan1414/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -36,7 +36,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://github.com/adeelmadagavi"
+                // href="https://github.com/adeelmadagavi"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -47,7 +47,7 @@ function Footer() {
             
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/adeel-madagavi-1a18a6220/"
+                // href="https://www.linkedin.com/in/adeel-madagavi-1a18a6220/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -57,7 +57,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/adeelmadagavi/"
+                // href="https://www.instagram.com/adeelmadagavi/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -67,7 +67,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://youtube.com/c/AdeelMadagavi"
+                // href="https://youtube.com/c/AdeelMadagavi"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
